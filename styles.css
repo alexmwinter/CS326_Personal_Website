@@ -1,3 +1,27 @@
+.column {
+    float: left;
+    width: 50%;
+}
+
+#links {
+    text-align: center;
+    padding-top: 10%;
+}
+
 #proPic {
-    width : 50%;
+    width : 40%;
+}
+
+body {
+    text-align: center;
+}
+
+#project1 {
+    position: relative;
+    left: 10%;
+}
+
+#project2 {
+    position: relative;
+    right: 10%;
 }
